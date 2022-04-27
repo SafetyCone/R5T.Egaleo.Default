@@ -13,6 +13,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "_Dependencies", "_Dependenc
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "R5T.Egaleo.Base", "..\..\R5T.Egaleo.Base\source\R5T.Egaleo.Base\R5T.Egaleo.Base.csproj", "{0F94AA40-5A36-46F5-8B1F-2A73C868C533}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "R5T.T0064", "..\..\R5T.T0064\source\R5T.T0064\R5T.T0064.csproj", "{6DB8652E-A8D5-4FFD-8762-6224828DFE12}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -71,12 +73,25 @@ Global
 		{0F94AA40-5A36-46F5-8B1F-2A73C868C533}.Release|x64.Build.0 = Release|Any CPU
 		{0F94AA40-5A36-46F5-8B1F-2A73C868C533}.Release|x86.ActiveCfg = Release|Any CPU
 		{0F94AA40-5A36-46F5-8B1F-2A73C868C533}.Release|x86.Build.0 = Release|Any CPU
+		{6DB8652E-A8D5-4FFD-8762-6224828DFE12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DB8652E-A8D5-4FFD-8762-6224828DFE12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DB8652E-A8D5-4FFD-8762-6224828DFE12}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{6DB8652E-A8D5-4FFD-8762-6224828DFE12}.Debug|x64.Build.0 = Debug|Any CPU
+		{6DB8652E-A8D5-4FFD-8762-6224828DFE12}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{6DB8652E-A8D5-4FFD-8762-6224828DFE12}.Debug|x86.Build.0 = Debug|Any CPU
+		{6DB8652E-A8D5-4FFD-8762-6224828DFE12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DB8652E-A8D5-4FFD-8762-6224828DFE12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DB8652E-A8D5-4FFD-8762-6224828DFE12}.Release|x64.ActiveCfg = Release|Any CPU
+		{6DB8652E-A8D5-4FFD-8762-6224828DFE12}.Release|x64.Build.0 = Release|Any CPU
+		{6DB8652E-A8D5-4FFD-8762-6224828DFE12}.Release|x86.ActiveCfg = Release|Any CPU
+		{6DB8652E-A8D5-4FFD-8762-6224828DFE12}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{0F94AA40-5A36-46F5-8B1F-2A73C868C533} = {E65AC155-4574-462D-92EA-770BDF916C5A}
+		{6DB8652E-A8D5-4FFD-8762-6224828DFE12} = {E65AC155-4574-462D-92EA-770BDF916C5A}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {0903A09C-D8A2-4901-BE75-42FBA5265316}

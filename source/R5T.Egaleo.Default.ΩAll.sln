@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "R5T.Egaleo.Default.Construc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "R5T.Egaleo.Default.Testing", "R5T.Egaleo.Default.Testing\R5T.Egaleo.Default.Testing.csproj", "{D260F414-171E-46A1-A0A9-3EB238710436}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "_Dependencies", "_Dependencies", "{0C769FE5-B190-4E96-A511-3DB5F001672B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "R5T.T0064", "..\..\R5T.T0064\source\R5T.T0064\R5T.T0064.csproj", "{1E46FE5D-2089-45EE-8A7A-0463FBCBAA73}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -58,5 +62,20 @@ Global
 		{D260F414-171E-46A1-A0A9-3EB238710436}.Release|x64.Build.0 = Release|Any CPU
 		{D260F414-171E-46A1-A0A9-3EB238710436}.Release|x86.ActiveCfg = Release|Any CPU
 		{D260F414-171E-46A1-A0A9-3EB238710436}.Release|x86.Build.0 = Release|Any CPU
+		{1E46FE5D-2089-45EE-8A7A-0463FBCBAA73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E46FE5D-2089-45EE-8A7A-0463FBCBAA73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E46FE5D-2089-45EE-8A7A-0463FBCBAA73}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{1E46FE5D-2089-45EE-8A7A-0463FBCBAA73}.Debug|x64.Build.0 = Debug|Any CPU
+		{1E46FE5D-2089-45EE-8A7A-0463FBCBAA73}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{1E46FE5D-2089-45EE-8A7A-0463FBCBAA73}.Debug|x86.Build.0 = Debug|Any CPU
+		{1E46FE5D-2089-45EE-8A7A-0463FBCBAA73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E46FE5D-2089-45EE-8A7A-0463FBCBAA73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E46FE5D-2089-45EE-8A7A-0463FBCBAA73}.Release|x64.ActiveCfg = Release|Any CPU
+		{1E46FE5D-2089-45EE-8A7A-0463FBCBAA73}.Release|x64.Build.0 = Release|Any CPU
+		{1E46FE5D-2089-45EE-8A7A-0463FBCBAA73}.Release|x86.ActiveCfg = Release|Any CPU
+		{1E46FE5D-2089-45EE-8A7A-0463FBCBAA73}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{1E46FE5D-2089-45EE-8A7A-0463FBCBAA73} = {0C769FE5-B190-4E96-A511-3DB5F001672B}
 	EndGlobalSection
 EndGlobal
